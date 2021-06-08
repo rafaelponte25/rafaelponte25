@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rafaelponte25
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning TensorFlow
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/rafael-ponte-91b0a1169/
 
 <!---
